@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mad_libs_game", "mad_libs_game\mad_libs_game.pyproj", "{1ACBCBED-8F1D-4A31-817D-05900E6227FC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "piedra_papel_tijeras", "piedra_papel_tijeras\piedra_papel_tijeras.pyproj", "{C3150B40-7771-4900-89CC-6DE049C68EEA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "temporizador", "temporizador\temporizador.pyproj", "{AFC33287-BE2D-4E0A-A21A-49328F1E9BF6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "password_generator", "password_generator\password_generator.pyproj", "{3B7F2052-922D-41C0-9B40-AFCA661E4C09}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "codificador_qr", "codificador_qr\codificador_qr.pyproj", "{D5BDA641-0040-4B17-9015-8DC204D379DB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "decodificador_qr", "decodificador_qr\decodificador_qr.pyproj", "{3155A108-1EDC-44FE-86AF-08DC568F8B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ACBCBED-8F1D-4A31-817D-05900E6227FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACBCBED-8F1D-4A31-817D-05900E6227FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3150B40-7771-4900-89CC-6DE049C68EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3150B40-7771-4900-89CC-6DE049C68EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC33287-BE2D-4E0A-A21A-49328F1E9BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC33287-BE2D-4E0A-A21A-49328F1E9BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7F2052-922D-41C0-9B40-AFCA661E4C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7F2052-922D-41C0-9B40-AFCA661E4C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BDA641-0040-4B17-9015-8DC204D379DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BDA641-0040-4B17-9015-8DC204D379DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3155A108-1EDC-44FE-86AF-08DC568F8B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3155A108-1EDC-44FE-86AF-08DC568F8B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07B49951-D693-4F94-9B9D-91AF9C0E7274}
+	EndGlobalSection
+EndGlobal
